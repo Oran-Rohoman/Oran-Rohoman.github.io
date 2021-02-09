@@ -14,6 +14,8 @@ SITEURL = 'https://github.com/Oran-Rohoman/Oran-Rohoman.github.io.git'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+
+OUTPUT_PATH = "docs/"
 #CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
